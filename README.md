@@ -1,4 +1,4 @@
-# OSP Suite Workshops at QSP Conference in Leiden, Netherlands
+# OSP Suite Workshops at QSP Conference in Leiden, Netherlands (April 21st and 25th, 2020)
 
 ## Two 1-Day PK-Sim® &amp; MoBi® workshops on PBPK and PBPK-based QSP 
 
