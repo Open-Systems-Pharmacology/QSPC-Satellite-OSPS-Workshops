@@ -1,4 +1,4 @@
-# OSP Suite Workshop in Houston, TX, College of Pharmacy
+# OSP Suite Workshops at QSP Conference in Leiden, Netherlands
 
 ## Two 1-Day PK-Sim® &amp; MoBi® workshops on PBPK and PBPK-based QSP 
 
